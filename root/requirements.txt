@@ -1,0 +1,16 @@
+matplotlib
+numpy
+openpyxl
+pandas
+Pillow
+pygame
+python_pptx
+schedule
+scikit_learn
+scipy
+seaborn
+tabulate
+tqdm
+librosa
+ipywidgets
+IPython
