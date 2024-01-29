@@ -54,5 +54,6 @@ root/
 # main.py 示例内容概览
 
 按照aniconda3教程设置好运行环境 输入py main.py 运行程序
+如果aniconda3提示无法导入PIL 请在VSCODE中运行main.py
 
 
