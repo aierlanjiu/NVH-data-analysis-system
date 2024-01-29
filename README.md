@@ -26,22 +26,33 @@
 - 音频回放：集成音频播放器，方便回放原始音频数据。
 - 音频Colormap输出：将音频信号转换成可视化图像，如声压级谱图。
 
-#### 数据库系统
-- 设计并实现一个高效、稳定的数据库架构，用于存储所有模块产生的数据和元数据。
-- 在GUI中嵌入数据管理模块，提供数据添加、查询、修改和删除等功能。
-- 实现数据自动或手动同步到数据库，并从数据库中读取数据进行后续分析和报告生成。
 
-## 开发技术栈
-- 编程语言：主要使用Python编程语言，也可结合其他适合的语言进行部分功能开发。
-- GUI框架：利用Tkinter或Qt创建桌面应用界面。
-- 数据库技术：选择适合的数据库系统，例如SQLite、MySQL或PostgreSQL等。
+root/
+├── main.py  # 主程序入口，负责整体流程控制与GUI初始化
+├── config.py  # 配置程序
+├── __init__.py #初始化
+├── gui/
+│   ├── __init__.py
+├── data_management/
+│   ├── __init__.py
+│   ├── data_init.py  # 创建数据副本
+│   ├── data_loader.py  # 数据加载模块，读取并解析各类数据文件
+├── data_processing/
+│   ├── __init__.py
+│   ├── efficiency_data.py  # 效率数据分析模块
+│   ├── semiacoustic.py  # NVH半消音室数据分析模块
+│   ├── eol_data.py  # EOL产线数据分析模块
+│   └── fitting_curve.py  # EOL产线数据目标拟合
+├── visualization/
+│   ├── __init__.py
+│   |── eol_plot.py  # 数据可视化模块
+|   |── noise_plot.py  # 数据可视化模块
+└── reports/
+    ├── __init__.py
+    └── report_generation.py  # 报告生成模块，自动生成并导出报告
 
-## 下一步计划
-- 完善详细的需求规格说明文档。
-- 设计数据库表结构及相关接口。
-- 制定详细的系统架构蓝图和界面原型设计。
-- 确定具体的技术选型和开发时间表。
-- 开始编码实现各功能模块，逐步整合测试。
+# main.py 示例内容概览
 
+按照aniconda3教程设置好运行环境 输入py main.py 运行程序
 
 
