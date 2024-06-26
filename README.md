@@ -59,5 +59,4 @@ root/
 
 
 ### 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=aierlanjiu/NVH-data-analysis-system&type=Date)](https://star-history.com/#aierlanjiu/NVH-data-analysis-system&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=NVH-data-analysis-system&type=Date)](https://star-history.com/#NVH-data-analysis-system&Date)
