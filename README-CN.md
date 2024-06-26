@@ -7,9 +7,7 @@
 
 
 <p align="center">
-  <a href="LICENSE" target="_blank">
-    <img alt="MIT License" src="LICENSE" />
-  </a>
+
 
   <!-- TypeScript Badge -->
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white" />
