@@ -37,6 +37,9 @@
 
 ## Project Introduction
 This project aims to develop an interactive software for the Windows operating system, specifically designed for the automotive industry to handle efficiency data, NVH semi-anechoic chamber data, EOL production line data, and whole vehicle noise data analysis. The software is written in Python and utilizes the Tkinter or Qt framework to build an intuitive and feature-rich graphical user interface (GUI). Moreover, the software integrates a database system to support data import, storage, and retrieval.
+<picture>
+  <img alt="b" src="Graphical User Interface.png">
+</picture>
 
 ## Functional Modules
 
@@ -44,6 +47,9 @@ This project aims to develop an interactive software for the Windows operating s
 - Data Import: Provides interfaces for importing data files in various formats.
 - Data Analysis: Includes data cleaning, organization, statistical calculations, and visualization features.
 - Result Output: Supports exporting to formats such as Excel, PDF, and displays key metrics in real-time.
+<picture>
+  <img alt="c" src="Efficiency Data Handling.png">
+</picture>
 
 ### 2. NVH Semi-Anechoic Chamber Data Processing Module
 - Data/Condition/Measurement Point/Prototype/Analysis Order/Target Import: Fully supports the input of various parameters.
@@ -59,6 +65,9 @@ This project aims to develop an interactive software for the Windows operating s
 - Data Import: Supports the import of audio files and other noise-related data.
 - Audio Playback: Integrates an audio player for convenient playback of original audio data.
 - Audio Colormap Output: Converts audio signals into visual images, such as sound pressure level spectrums.
+<picture>
+  <img alt="d" src="Rotating Parts NVH Analysis.png">
+</picture>
 
 ```plaintext
 
