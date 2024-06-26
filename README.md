@@ -26,7 +26,7 @@
 - 音频回放：集成音频播放器，方便回放原始音频数据。
 - 音频Colormap输出：将音频信号转换成可视化图像，如声压级谱图。
 
-
+```plaintext
 root/
 ├── main.py  # 主程序入口，负责整体流程控制与GUI初始化
 ├── config.py  # 配置程序
@@ -50,7 +50,7 @@ root/
 └── reports/
     ├── __init__.py
     └── report_generation.py  # 报告生成模块，自动生成并导出报告
-
+```
 # main.py 示例内容概览
 
 按照aniconda3教程设置好运行环境 输入py main.py 运行程序
