@@ -1,12 +1,10 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aierlanjiu/NVH-data-analysis-system/blob/main/NVH%20Data%20Analysis%20Tool.png">
+  <img alt="a" src="https://github.com/aierlanjiu/NVH-data-analysis-system/blob/main/NVH%20Data%20Analysis%20Tool.png">
 </picture>
 <p align="center">
     <br> 中文 | <a href="README.md">English</a>
 </p>
-<p align="center">
-    <em>The translator that does more than just translation - powered by OpenAI.</em>
-</p>
+
 
 <p align="center">
   <a href="LICENSE" target="_blank">
@@ -29,12 +27,12 @@
   <a href="https://github.com/yetone/openai-translator/releases" target="_blank">
     <img alt="Windows" src="https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows&logoColor=white" />
   </a>
-
-
 </p>
 
 
 [![Conventional Installation Method](https://img.shields.io/static/v1?label=&message=Conventional%20Installation%20Method&color=gray)]
+<a href="root/aniconda3.md">English</a>
+
 ## 项目简介
 本项目旨在开发一款适用于Windows操作系统的可交互软件，专为汽车行业设计，用于处理效率数据、NVH半消音室数据、EOL产线数据以及整车噪声数据分析。该软件采用Python语言编写，并利用Tkinter或Qt框架构建直观且功能丰富的图形用户界面（GUI）。同时，软件集成了数据库系统以支持数据的导入、存储和检索。
 
