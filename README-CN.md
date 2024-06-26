@@ -31,7 +31,8 @@
 
 
 [![Conventional Installation Method](https://img.shields.io/static/v1?label=&message=Conventional%20Installation%20Method&color=gray)]
-<a href="root/aniconda3.md">English</a>
+
+<a href="root/aniconda3.md">安装说明</a>
 
 ## 项目简介
 本项目旨在开发一款适用于Windows操作系统的可交互软件，专为汽车行业设计，用于处理效率数据、NVH半消音室数据、EOL产线数据以及整车噪声数据分析。该软件采用Python语言编写，并利用Tkinter或Qt框架构建直观且功能丰富的图形用户界面（GUI）。同时，软件集成了数据库系统以支持数据的导入、存储和检索。
