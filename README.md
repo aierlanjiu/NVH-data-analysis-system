@@ -1,8 +1,40 @@
+<picture>
+  <img alt="a" src="https://github.com/aierlanjiu/NVH-data-analysis-system/blob/main/NVH%20Data%20Analysis%20Tool.png">
+</picture>
+<p align="center">
+    <br> English | <a href="README-CN.md">中文</a>
+</p>
 
-# Interactive Automobile Data Analysis Software
-[Chinese](README.md)
+
+<p align="center">
+  <a href="LICENSE" target="_blank">
+    <img alt="MIT License" src="https://img.shields.io/github/license/yetone/openai-translator.svg?style=flat-square" />
+  </a>
+
+  <!-- TypeScript Badge -->
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white" />
+
+  <!-- Python Badge -->
+  <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" />
+
+  <!-- Tkinter Badge -->
+  <img alt="Tkinter" src="https://img.shields.io/badge/-Tkinter-blue?style=flat-square&logo=python&logoColor=white" />
+
+  <!-- Qt Badge -->
+  <img alt="Qt" src="https://img.shields.io/badge/-Qt-blue?style=flat-square&logo=qt&logoColor=white" />
+
+  <!-- Windows Badge -->
+  <a href="https://github.com/yetone/openai-translator/releases" target="_blank">
+    <img alt="Windows" src="https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows&logoColor=white" />
+  </a>
+</p>
+
 
 [![Conventional Installation Method](https://img.shields.io/static/v1?label=&message=Conventional%20Installation%20Method&color=gray)]
+
+<a href="root/aniconda3.md">Install</a>
+
+
 ## Project Introduction
 This project aims to develop an interactive software for the Windows operating system, specifically designed for the automotive industry to handle efficiency data, NVH semi-anechoic chamber data, EOL production line data, and whole vehicle noise data analysis. The software is written in Python and utilizes the Tkinter or Qt framework to build an intuitive and feature-rich graphical user interface (GUI). Moreover, the software integrates a database system to support data import, storage, and retrieval.
 
