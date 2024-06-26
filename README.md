@@ -56,4 +56,10 @@ root/
 按照aniconda3教程设置好运行环境 输入py main.py 运行程序
 如果aniconda3提示无法导入PIL 请在VSCODE中运行main.py
 
+### 🔆 Activity
 
+![Git Repository Activity](https://repobeats.axiom.co/api/embed/e4ef0fbd12e586ef9ea7d72d1fb4f5c5b88d78d5.svg "Repobeats analytics image")
+
+### 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=aierlanjiu/NVH-data-analysis-system&type=Date)](https://star-history.com/#aierlanjiu/NVH-data-analysis-system&Date)
