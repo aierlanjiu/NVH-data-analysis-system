@@ -41,6 +41,10 @@ This project aims to develop an interactive software for the Windows operating s
   <img alt="b" src="Graphical User Interface.png">
 </picture>
 
+<picture>
+  <img alt="e" src="Graphical User Interface.png">
+</picture>
+
 ## Functional Modules
 
 ### 1. Efficiency Data Processing Module
