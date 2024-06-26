@@ -1,7 +1,39 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/1651790/224081217-86521beb-1b69-4071-b195-f2ce0bb33db7.png">
+  <img alt="NebulaGraph Data Intelligence Suite(ngdi)" src="https://user-images.githubusercontent.com/1651790/224081979-d3aa7867-94a6-4a85-a5d7-603e02360cee.png">
+</picture>
+<p align="center">
+    <br> 中文 | <a href="README.md">English</a>
+</p>
+<p align="center">
+    <em>The translator that does more than just translation - powered by OpenAI.</em>
+</p>
 
-# 交互式汽车数据分析软件
+<p align="center">
+  <a href="LICENSE" target="_blank">
+    <img alt="MIT License" src="https://img.shields.io/github/license/yetone/openai-translator.svg?style=flat-square" />
+  </a>
 
-[English](English.md)
+  <!-- TypeScript Badge -->
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white" />
+
+  <!-- Python Badge -->
+  <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" />
+
+  <!-- Tkinter Badge -->
+  <img alt="Tkinter" src="https://img.shields.io/badge/-Tkinter-blue?style=flat-square&logo=python&logoColor=white" />
+
+  <!-- Qt Badge -->
+  <img alt="Qt" src="https://img.shields.io/badge/-Qt-blue?style=flat-square&logo=qt&logoColor=white" />
+
+  <!-- Windows Badge -->
+  <a href="https://github.com/yetone/openai-translator/releases" target="_blank">
+    <img alt="Windows" src="https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows&logoColor=white" />
+  </a>
+
+
+</p>
+
 
 [![Conventional Installation Method](https://img.shields.io/static/v1?label=&message=Conventional%20Installation%20Method&color=gray)]
 ## 项目简介
