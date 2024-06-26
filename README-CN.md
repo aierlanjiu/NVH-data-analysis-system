@@ -36,6 +36,13 @@
 
 ## 项目简介
 本项目旨在开发一款适用于Windows操作系统的可交互软件，专为汽车行业设计，用于处理效率数据、NVH半消音室数据、EOL产线数据以及整车噪声数据分析。该软件采用Python语言编写，并利用Tkinter或Qt框架构建直观且功能丰富的图形用户界面（GUI）。同时，软件集成了数据库系统以支持数据的导入、存储和检索。
+<picture>
+  <img alt="b" src="Graphical User Interface.png">
+</picture>
+
+<picture>
+  <img alt="e" src="Python-based Development.png">
+</picture>
 
 ## 功能模块
 
@@ -43,6 +50,9 @@
 - 数据导入：提供多种格式的数据文件导入接口。
 - 数据分析：包括数据清洗、整理、统计计算与可视化展示功能。
 - 结果输出：支持导出至Excel、PDF等格式，并实时显示关键指标。
+<picture>
+  <img alt="c" src="Efficiency Data Handling.png">
+</picture>
 
 ### 2. NVH半消音室数据处理模块
 - 数据/工况/测点/样机/分析阶次/目标导入：全面支持各类参数输入。
@@ -58,6 +68,10 @@
 - 数据导入：支持音频文件和其他噪声相关数据的导入。
 - 音频回放：集成音频播放器，方便回放原始音频数据。
 - 音频Colormap输出：将音频信号转换成可视化图像，如声压级谱图。
+<picture>
+  <img alt="d" src="Rotating Parts NVH Analysis.png">
+</picture>
+
 
 ```plaintext
 root/
