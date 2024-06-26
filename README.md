@@ -42,7 +42,7 @@ This project aims to develop an interactive software for the Windows operating s
 </picture>
 
 <picture>
-  <img alt="e" src="Graphical User Interface.png">
+  <img alt="e" src="Python-based Development.png">
 </picture>
 
 ## Functional Modules
