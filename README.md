@@ -55,8 +55,5 @@ root/
 
 按照aniconda3教程设置好运行环境 输入py main.py 运行程序
 如果aniconda3提示无法导入PIL 请在VSCODE中运行main.py
-
-
-
 ### 🌟 Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=NVH-data-analysis-system&type=Date)](https://star-history.com/#NVH-data-analysis-system&Date)
