@@ -1,4 +1,4 @@
-```markdown
+
 # 交互式汽车数据分析软件
 
 ## 项目简介
@@ -57,5 +57,5 @@ root/
 如果aniconda3提示无法导入PIL 请在VSCODE中运行main.py
 
 
-
+### 🌟 Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=aierlanjiu/NVH-data-analysis-system&type=Date)](https://star-history.com/#aierlanjiu/NVH-data-analysis-system&Date)
